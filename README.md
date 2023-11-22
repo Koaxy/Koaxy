@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java, C# and some C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me I have discord! my username is Koaxy#6969
+- 📫 How to reach me I have discord! my username is Koaxy
 
 <!---
 Koaxy/Koaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
